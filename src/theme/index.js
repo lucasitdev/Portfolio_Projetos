@@ -1,4 +1,3 @@
-  
 import { typographyVariants } from './typographyVariants';
 
 const colors = {
@@ -46,7 +45,7 @@ export default {
     colors,
     borderRadius: '8px',
     transition: '200ms ease-in-out',
-    fontFamily: '\'Rubik\', sans-serif',
+    fontFamily: '\'Fira Sans\', sans-serif',
     typographyVariants,
     breakpoints: {
         xs: 0,
